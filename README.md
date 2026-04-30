@@ -30,7 +30,7 @@ interface TabsOptions {
       easing?: string;       // <easing-function> (default: 'ease')
     };
   };
-  avoidDuplicates?: boolean; // default: true
+  avoidDuplicates?: boolean; // default: false
   manual?: boolean;          // default: false
   selector?: {
     content?: string;        // default: '[role="tablist"] + *'
