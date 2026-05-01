@@ -1,4 +1,4 @@
-# tabs.ts (v0)
+# 🚧 tabs.ts
 
 WAI-ARIA compliant [tabs](https://www.w3.org/WAI/ARIA/apg/patterns/tabs/) pattern implementation in TypeScript.
 
