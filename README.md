@@ -48,7 +48,7 @@ interface TabsOptions {
 
 ### `avoidDuplicates`
 
-If `true`, avoids interaction with duplicate tab lists so only the first one is focusable.
+If `true`, only the first tab list remains interactive; subsequent duplicates are excluded from focus and navigation.
 
 ## 📦 APIs
 
