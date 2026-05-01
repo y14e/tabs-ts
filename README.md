@@ -2,6 +2,9 @@
 
 WAI-ARIA compliant [tabs](https://www.w3.org/WAI/ARIA/apg/patterns/tabs/) pattern implementation in TypeScript.
 
+> [!NOTE]
+> This project is currently undergoing internal refactoring. The public APIs and behavior remain unchanged.
+
 ## Usage
 
 ```ts
