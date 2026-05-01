@@ -46,6 +46,10 @@ interface TabsOptions {
 }
 ```
 
+### `avoidDuplicates`
+
+If `true`, avoids interaction with duplicate tab lists so only the first one is focusable.
+
 ## 📦 APIs
 
 ### `activate`
